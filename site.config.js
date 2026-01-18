@@ -4,6 +4,7 @@ const CONFIG = {
     name: "lognphma",
     image: "/avatar.jpg", 
     bio: "I develop everything using node.",
+    role: "backend developer",
     email: "longphamk2@gmail.com",
     linkedin: "long-pham-26758236a",
     github: "RamennSama",
