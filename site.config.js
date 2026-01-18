@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "lognphma",
+    name: "LongPham",
     image: "/avatar.jpg", 
-    bio: "I develop everything using node.",
+    bio: "Sometimes you think the sky is about to collapse,\nbut actually you’re just unsteady on your feet.",
     role: "backend developer",
     email: "longphamk2@gmail.com",
     linkedin: "long-pham-26758236a",
